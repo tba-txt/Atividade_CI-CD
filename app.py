@@ -1,0 +1,1 @@
+print("Integração contínua iniciada!")
